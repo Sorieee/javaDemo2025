@@ -1,0 +1,8 @@
+yacht
+zebra
+antelope
+bear
+cheetah
+deer
+elephant
+fox

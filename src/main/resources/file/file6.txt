@@ -1,0 +1,8 @@
+albatross
+butterfly
+caterpillar
+dolphin
+elephant
+flamingo
+giraffe
+hippopotamus

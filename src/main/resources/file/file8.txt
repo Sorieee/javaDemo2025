@@ -1,0 +1,8 @@
+giraffe
+hippo
+iguana
+jellyfish
+koala
+lemur
+moose
+newt

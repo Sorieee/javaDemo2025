@@ -1,0 +1,8 @@
+owl
+parrot
+quail
+rabbit
+sheep
+tiger
+unicorn
+vulture
